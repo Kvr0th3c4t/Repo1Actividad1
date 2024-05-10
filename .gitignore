@@ -1,0 +1,12 @@
+.metadata/
+bin/
+tmp/
+.settings/
+
+# Archivos de Eclipse
+.classpath
+.project
+.factorypath
+
+# Archivos .class de Java
+*.class
